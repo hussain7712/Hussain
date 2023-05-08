@@ -1,0 +1,15 @@
+التواصل مع رئيس القسم 
+https://web.telegram.org/#/im?p=@mmals3
+=========================================
+للجداول
+https://sso.tvtc.gov.sa/authenticationendpoint/login.do?commonAuthCallerPath=%252Fcas%252Flogin&forceAuth=false&passiveAuth=false&tenantDomain=carbon.super&sessionDataKey=b6f4688c-9f11-43d9-9bde-e5c934aac52f&relyingParty=StudentRegistrationSsbPROD&type=cassso&sp=StudentRegistrationSsbPROD&isSaaSApp=false&authenticators=BasicAuthenticator:LOCAL
+==================================
+للدورات
+https://ctc.tvtc.gov.sa/#presentation
+=====================================
+شؤون الطلاب
+https://ctc.tvtc.gov.sa/#presentation
+==============================
+لاستفسار 
+توتر
+https://twitter.com/ct_dmm?lang=ar
